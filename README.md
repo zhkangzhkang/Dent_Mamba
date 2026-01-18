@@ -1,4 +1,4 @@
-我的实验环境:
+# 我的实验环境:
 python: 3.10.14
 torch: 2.2.2+cu121
 torchvision: 0.17.2+cu121   
