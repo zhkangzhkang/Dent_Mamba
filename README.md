@@ -18,12 +18,22 @@ triton: 3.2.0
 
 # 运行次序
 1.dataset/split_data.py    划分训练集和测试集
+
 2.train.py      训练模型的脚本
+
 3.val.py  使用训练好的模型计算指标的脚本
+
 4.detect.py   推理的脚本
+
 5.heatmap.py  生成热力图的脚本
+
 6.get_FPS.py  计算模型储存大小、模型推理时间、FPS的脚本
+
 7.get_COCO_metrice.py  计算COCO指标的脚本
+
 8.plot_result.py  绘制曲线对比图的脚本
+
 9.get_model_erf.py  绘制模型的有效感受野
+
 10.export.py   导出模型脚本
+
