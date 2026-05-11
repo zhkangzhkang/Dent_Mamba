@@ -28,6 +28,8 @@ The overall framework of DentMamba consists of two stages:
 2. **Local Dental Disease Detection**  
    The second stage performs fine-grained disease detection within each localized tooth ROI and maps the predicted boxes back to the original panoramic radiograph.
 
+![DentMamba Framework](figs/MambaOut_MASAG.png)
+
 <!-- Replace the following path with your actual framework figure if needed. -->
 <!-- ![DentMamba Framework](assets/framework.png) -->
 
